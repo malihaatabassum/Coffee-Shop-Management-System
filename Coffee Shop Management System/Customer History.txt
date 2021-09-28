@@ -1,0 +1,8 @@
+Customer Name- farhana      Customer ID- 23      Customer Phone Number- 01729      Customer Email- f@gmail.com      Customer Adress- dhaka
+
+Customer Name- farhana      Customer ID- 23      Customer Phone Number- 0987654      Customer Email- f@mail.com      Customer Adress- dhaka
+
+Customer Name- maliha      Customer ID- 201      Customer Phone Number- 01546329009      Customer Email- m@gmail.com      Customer Adress- Bashundhara,Dhaka
+
+Customer Name- Maliha      Customer ID- 201      Customer Phone Number- 01987654321      Customer Email- m@gmail.com      Customer Adress- Bashundhara,Dhaka
+
